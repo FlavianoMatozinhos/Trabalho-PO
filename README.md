@@ -1,8 +1,8 @@
 # Problema de Transporte - README
 
 ## Integrantes 
-Nome - Flaviano Cássio da Cruz Matozinhos
-Matricula - E00784
+- Nome: Flaviano Cássio da Cruz Matozinhos
+- Matricula: E00784
 
 ## Contextualização do Problema
 
