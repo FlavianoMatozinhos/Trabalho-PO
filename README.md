@@ -4,6 +4,9 @@
 - Nome: Flaviano Cássio da Cruz Matozinhos
 - Matricula: E00784
 
+- Nome: Eder Lucas de Almeida Oliveira
+- Matricula: E01814
+
 ## Contextualização do Problema
 
 O Problema de Transporte é um clássico problema de otimização que envolve o transporte de mercadorias de vários fornecedores para vários destinos, minimizando (ou maximizando) o custo total. No contexto deste problema, temos um número fixo de fornecedores, destinos, ofertas de fornecedores e demandas de destinos.
